@@ -1,6 +1,6 @@
 #! /usr/bin/python
 # iotlibre/xxx_node/dato:valor
-# @reboot sleep 180 && /home/pi/iotlibre/mqtt_reader_emoncms_writer.py
+# @reboot sleep 180 && /home/pi/iotlibre_mqtt_to_emoncms/mqtt_reader_emoncms_writer.py
 
 import time
 import paho.mqtt.client as mqtt
